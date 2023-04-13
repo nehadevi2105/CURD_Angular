@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "Ravindra 789",
+      "lastName": "Singh",
+      "emailId": "ravindra@gmail.com",
+      "mobileNo": 9934820479,
+      "salary": 7899556555
+    },
+    {
+      "id": 6,
+      "firstName": "tara",
+      "lastName": "jinifer",
+      "emailId": "tara@usa@gamil.com",
+      "mobileNo": 994568450,
+      "salary": 742226
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Govinda Singh",
+      "email": "govinda@gmail.com",
+      "password": "123456",
+      "mobile": 9934820479,
+      "id": 1
+    },
+    {
+      "fullname": "Praveen",
+      "email": "pk242391@gmail.com",
+      "password": "123456",
+      "mobile": 9934820479,
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
